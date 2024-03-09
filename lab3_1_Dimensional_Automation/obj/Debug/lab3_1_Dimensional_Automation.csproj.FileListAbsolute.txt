@@ -1,0 +1,10 @@
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\bin\Debug\lab3_1_Dimensional_Automation.exe.config
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\bin\Debug\lab3_1_Dimensional_Automation.exe
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\bin\Debug\lab3_1_Dimensional_Automation.pdb
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\obj\Debug\lab3_1_Dimensional_Automation.csproj.AssemblyReference.cache
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\obj\Debug\lab3_1_Dimensional_Automation.Form1.resources
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\obj\Debug\lab3_1_Dimensional_Automation.Properties.Resources.resources
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\obj\Debug\lab3_1_Dimensional_Automation.csproj.GenerateResource.cache
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\obj\Debug\lab3_1_Dimensional_Automation.csproj.CoreCompileInputs.cache
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\obj\Debug\lab3_1_Dimensional_Automation.exe
+C:\Users\Света\source\repos\lab3_1_Dimensional_Automation\lab3_1_Dimensional_Automation\obj\Debug\lab3_1_Dimensional_Automation.pdb
